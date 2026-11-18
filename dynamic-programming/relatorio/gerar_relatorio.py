@@ -5,16 +5,14 @@ EDITE OS DADOS DA CAPA ABAIXO e rode:  python relatorio/gerar_relatorio.py
 """
 
 # ======================= DADOS DA CAPA — EDITAR =======================
-EQUIPE = "[Nome da equipe]"
+EQUIPE = "Zela Aí"
 INTEGRANTES = [                     # ordem alfabética
-    ("[Nome completo do integrante 1]", "RM000000"),
-    ("[Nome completo do integrante 2]", "RM000000"),
-    ("[Nome completo do integrante 3]", "RM000000"),
-    ("[Nome completo do integrante 4]", "RM000000"),
-    ("[Nome completo do integrante 5]", "RM000000"),
+    ("Gabriel Cutrim", "RM568059"),
+    ("Guilherme Pereira", "RM567487"),
+    ("Gustavo Firmino", "RM566903"),
 ]
-TURMA = "2º ano · Engenharia de Software · [turma]"
-LINK_REPOSITORIO = "https://github.com/[usuario]/[repositorio]"
+TURMA = "2ESPS · Engenharia de Software"
+LINK_REPOSITORIO = "https://github.com/devguilherme1/zela-ai"
 # ======================================================================
 
 import os
