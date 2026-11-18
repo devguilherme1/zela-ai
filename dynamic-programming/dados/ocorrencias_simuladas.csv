@@ -1,0 +1,41 @@
+id,data_registro,categoria,bairro,gravidade,apoios,tempo_blocos
+OC001,2026-10-28,Poda de árvore,Cambuci,4,1,5
+OC002,2026-10-28,Limpeza de boca de lobo,Liberdade,5,0,2
+OC003,2026-10-29,Limpeza de boca de lobo,Aclimação,3,2,3
+OC004,2026-10-30,Iluminação pública (lâmpada apagada),Aclimação,2,2,1
+OC005,2026-10-30,Iluminação pública (lâmpada apagada),Aclimação,4,8,2
+OC006,2026-10-31,Limpeza de boca de lobo,Vila Mariana,4,0,3
+OC007,2026-10-31,Reparo de calçada,Cambuci,2,1,4
+OC008,2026-11-02,Poda de árvore,Vila Mariana,4,5,5
+OC009,2026-11-02,Limpeza de boca de lobo,Liberdade,5,11,4
+OC010,2026-11-03,Tapa-buraco,Cambuci,5,0,4
+OC011,2026-11-04,Reparo de calçada,Liberdade,2,4,4
+OC012,2026-11-04,Limpeza de boca de lobo,Aclimação,4,0,2
+OC013,2026-11-04,Reparo de calçada,Aclimação,2,3,5
+OC014,2026-11-05,Reparo de calçada,Cambuci,2,0,4
+OC015,2026-11-05,Remoção de entulho / descarte irregular,Aclimação,4,0,3
+OC016,2026-11-05,Reparo de calçada,Cambuci,2,2,5
+OC017,2026-11-05,Reparo de calçada,Liberdade,2,8,5
+OC018,2026-11-05,Tapa-buraco,Vila Mariana,3,2,4
+OC019,2026-11-06,Tapa-buraco,Aclimação,3,4,2
+OC020,2026-11-07,Remoção de entulho / descarte irregular,Aclimação,2,0,5
+OC021,2026-11-07,Poda de árvore,Cambuci,4,8,6
+OC022,2026-11-08,Tapa-buraco,Liberdade,3,1,4
+OC023,2026-11-08,Reparo de calçada,Cambuci,4,3,3
+OC024,2026-11-08,Limpeza de boca de lobo,Liberdade,3,0,2
+OC025,2026-11-09,Limpeza de boca de lobo,Aclimação,5,3,3
+OC026,2026-11-09,Tapa-buraco,Liberdade,3,6,2
+OC027,2026-11-10,Reparo de calçada,Aclimação,3,0,6
+OC028,2026-11-10,Poda de árvore,Cambuci,3,2,6
+OC029,2026-11-13,Poda de árvore,Liberdade,1,22,3
+OC030,2026-11-14,Reparo de calçada,Aclimação,4,0,6
+OC031,2026-11-14,Remoção de entulho / descarte irregular,Aclimação,4,5,4
+OC032,2026-11-14,Tapa-buraco,Cambuci,3,15,4
+OC033,2026-11-14,Limpeza de boca de lobo,Cambuci,5,13,3
+OC034,2026-11-15,Reparo de calçada,Vila Mariana,3,3,4
+OC035,2026-11-15,Poda de árvore,Cambuci,1,3,3
+OC036,2026-11-15,Iluminação pública (lâmpada apagada),Vila Mariana,2,5,2
+OC037,2026-11-17,Tapa-buraco,Vila Mariana,3,3,3
+OC038,2026-11-17,Limpeza de boca de lobo,Liberdade,3,1,3
+OC039,2026-11-17,Poda de árvore,Liberdade,2,9,4
+OC040,2026-11-17,Limpeza de boca de lobo,Liberdade,4,21,4
