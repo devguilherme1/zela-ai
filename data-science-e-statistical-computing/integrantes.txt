@@ -1,0 +1,17 @@
+GLOBAL SOLUTION 2026.2 - CITIZENTECH - Data Science & Statistical Computing
+Projeto: Zela Aí - zeladoria de bairro (São Paulo)
+
+INTEGRANTES
+Gabriel Cutrim - RM 568059
+Guilherme Pereira - RM 567487
+Gustavo Firmino - RM 566903
+
+REPOSITÓRIO DO PROJETO
+https://github.com/devguilherme1/zela-ai
+
+LINK DO ARQUIVO CSV UTILIZADO
+https://drive.google.com/file/d/11HeOp3Z4Mh9VywqGr6I1ikr3gJnSuXI0/view?usp=sharing
+
+FONTE ORIGINAL DOS DADOS
+Portal de Dados Abertos da Prefeitura de São Paulo - Dados do SP156 - Solicitações (3º TRI 2026)
+https://dados.prefeitura.sp.gov.br/dataset/dados-do-sp156
